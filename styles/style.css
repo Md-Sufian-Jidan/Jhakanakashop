@@ -40,12 +40,16 @@
     font-size: 20px;
     color: white;
 }
-.login-btn {
+
+.items-container .login-btn a{
     border: none;
     padding: 7px 15px;
     background-color: #ee93cf;
-    color: white;
-    /* border-radius: 8px;
+    color: black;
+    border-radius: 8px;
     font-size: 16px;
-    font-weight: 700; */
+    font-weight: 700;
 }
+/*  Main section styles start here */
+
+/*  Main section styles end here */
